@@ -3,6 +3,8 @@
 Binôme :<br/>
 - François Meunier
 - Jules Chevenet
+<br>
+Il est recommandé de lire le rapport pdf afin de comprendre la structure du code.
 
 ## Problème posé
 
